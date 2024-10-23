@@ -21,7 +21,7 @@ pelos usuários. A dificuldade mais difícil é o **extreme demon**, onde atualm
   |Silent Clubstep|#4|Extreme Demon|Paqoe|
   |Avernus|#5|Extreme Demon|Zoink|
   |Tunnel of Despair|#6|Extreme Demon|Zoink|
-  |Abyss of Darkness|#7|Extreme Demon|Zoink|
+  |Abyss of Darkness|#7|Extreme Demon|Cursed|
   |Kyouki|#8|Extreme Demon|Zoink|
-  |Slaughterhouse|#9|Extreme Demon|Zoink|
-  |Sakupen Circles|#10|Extreme Demon|Zoink|
+  |Slaughterhouse|#9|Extreme Demon|Doggie|
+  |Sakupen Circles|#10|Extreme Demon|Diamond|
