@@ -1,1 +1,1 @@
-#, Os níveis mais difícies do Geometry Dash
+# Os níveis mais difícies do Geometry Dash
