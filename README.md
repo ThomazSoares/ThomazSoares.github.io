@@ -18,3 +18,10 @@ pelos usuários. A dificuldade mais difícil é o **extreme demon**, onde atualm
   |Tidal Wave|#1|Extreme Demon|Zoink|
   |Acheron|#2|Extreme Demon|Zoink|
   |Nullscapes|#3|Extreme Demon|Zoink|
+  |Silent Clubstep|#4|Extreme Demon|Paqoe|
+  |Avernus|#5|Extreme Demon|Zoink|
+  |Tunnel of Despair|#6|Extreme Demon|Zoink|
+  |Abyss of Darkness|#7|Extreme Demon|Zoink|
+  |Kyouki|#8|Extreme Demon|Zoink|
+  |Slaughterhouse|#9|Extreme Demon|Zoink|
+  |Sakupen Circles|#10|Extreme Demon|Zoink|
