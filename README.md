@@ -1,4 +1,4 @@
-# Os níveis mais difícies do Geometry Dash
+# Os três níveis mais difícies do Geometry Dash
 
   Geometry Dash é um jogo de plataforma que você deve pular sobre objetos perigosos e sobreviver até o final da fase, contudo não há checkpoints no jogo. O jogo em si contém vários levels e você ode criar seus próprios, abrindo sua imaginação.
 
@@ -25,3 +25,5 @@ pelos usuários. A dificuldade mais difícil é o **extreme demon**, onde atualm
   |Kyouki|#8|Extreme Demon|Zoink|
   |Slaughterhouse|#9|Extreme Demon|Doggie|
   |Sakupen Circles|#10|Extreme Demon|Diamond|
+
+- Tidal Wave: ffod
