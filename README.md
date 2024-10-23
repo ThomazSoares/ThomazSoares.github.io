@@ -13,4 +13,6 @@ pelos usuários. A dificuldade mais difícil é o **extreme demon**, onde atualm
 
   Confira a seguir os dez níveis rated mais difícies do Geometry Dash criados pela comunidade:
 
-  |Nome|Posição de dificuldade|Rate|Verificador||:---------------|:-----------------:|:---------------------:|-----------------:||Tidal Wave|#1|Extreme Demon|Zoink|
+  |Nome|Posição de dificuldade|Rate|Verificador|
+  |:---------------:|:-----------------:|:---------------------:|:-----------------:|
+  |Tidal Wave|#1|Extreme Demon|Zoink|
