@@ -16,3 +16,5 @@ pelos usuários. A dificuldade mais difícil é o **extreme demon**, onde atualm
   |Nome|Posição de dificuldade|Rate|Verificador|
   |:---------------:|:-----------------:|:---------------------:|:-----------------:|
   |Tidal Wave|#1|Extreme Demon|Zoink|
+  |Acheron|#2|Extreme Demon|Zoink|
+  |Nullscapes|#3|Extreme Demon|Zoink|
