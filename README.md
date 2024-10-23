@@ -1,6 +1,7 @@
 # Os níveis mais difícies do Geometry Dash
 
-      Geometry Dash é um jogo de plataforma que você deve pular sobre objetos perigosos e sobreviver até o final da fase, contudo não há 
+      Geometry Dash é um jogo de plataforma que você deve pular sobre objetos perigosos e sobreviver até o final da  
+      fase, contudo não há 
 checkpoints no jogo. O jogo em si contém vários levels e você ode criar seus próprios, abrindo sua imaginação.
 
 
