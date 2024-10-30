@@ -13,7 +13,7 @@ pelos usuários. A dificuldade mais difícil é o **extreme demon**, onde atualm
 
   Confira a seguir os dez níveis rated mais difícies do Geometry Dash criados pela comunidade:
 
-  |Nome|Posição de dificuldade|Rate|Verificador|
+  |Nome|Posição|Rate|Verificador|
   |:---------------:|:-----------------:|:---------------------:|:-----------------:|
   |Tidal Wave|#1|Extreme Demon|Zoink|
   |Acheron|#2|Extreme Demon|Zoink|
@@ -26,6 +26,6 @@ pelos usuários. A dificuldade mais difícil é o **extreme demon**, onde atualm
   |Slaughterhouse|#9|Extreme Demon|Doggie|
   |Sakupen Circles|#10|Extreme Demon|Diamond|
 
-- **Tidal Wave**: criado na versão 2.1, em 09/09/2023, pelo usuário OniLink. Zoink, o verificador do level, levou exatamente 49,534 tentativas, completando o nível em live. Portanto o nível não esteve na lista dos dez níveis mais difícies do Geometry Dash pelo Zoink não ter levado em consideração o FPS Counter (atributo que mostra o FPS atual do jogo), deixando difícil de saber se foi verificado legitimamente. Portanto, em 18/02/2024, Rob decidiu dar rate no level sem motivo aparentemente, então sendo o nível mais difícil do jogo até então.
-
-  <https://www.youtube.com/watch?v=9fsZ014qB3s>
+- **Tidal Wave**: criado na versão 2.1, em 09/09/2023, pelo usuário OniLink. Zoink, o verificador do level, levou exatamente 49534 tentativas, completando o nível em live. Portanto o nível não esteve na lista dos dez níveis mais difícies do Geometry Dash pelo Zoink não ter levado em consideração o FPS Counter (atributo que mostra o FPS atual do jogo), deixando difícil de saber se foi verificado legitimamente. Portanto, em 18/02/2024, Rob decidiu dar rate no level sem motivo aparentemente, então sendo o nível mais difícil do jogo até então.
+- **Acheron**: criado na versão 2.1, em 15/08/2021, pelo usuário Ryamu. Zoink, o verificador do level, levou exatamente 72808 tentativas, completando o nível em live. Em 23/08/2022, Rob deu seu devido rate, permanecendo como nível mais difícil por quase dois anos seguidos.
+- **Nullscapes**: criado na versão 2.1, em 15/08/2021, pelo usuário Ryamu. Zoink, o verificador do level, levou exatamente 72808 tentativas, completando o nível em live. Em 23/08/2022, Rob deu seu devido rate, permanecendo como nível mais difícil por quase dois anos seguidos.
